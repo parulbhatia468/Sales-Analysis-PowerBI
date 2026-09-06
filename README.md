@@ -1,43 +1,59 @@
-# Sales-Analysis-PowerBI
-Power BI dashboard analyzing business performance, KPIs, trends, and actionable insights using data visualization and analytics.
+ digital payment adoption and optimize channel performance.
+# Retail Competitive Market Analysis – Power BI
 
-# Retail Competitive Market Analysis
+**Tool:** Power BI  
+**Data:** 1,500+ Retail Transactions
 
-**Tool:** Power BI
-**Data:** 1,500+ retail transactions
-**Domain:** Retail & Business Analytics
-
-## Project Overview
-An interactive Power BI dashboard developed to analyze retail sales performance across **5 sales channels, product categories, and Indian states**.
-The dashboard provides insights into revenue trends, market performance, customer purchasing patterns, and channel-wise sales.
-
-## Key Insights
-* **Electronics** is the highest-revenue product category.
-* **Cash on Delivery (COD)** dominates, indicating a potential digital payment adoption gap in Tier 2/3 markets.
-* **Maharashtra, Uttar Pradesh, and Delhi** are the top 3 markets by sales performance.
-* Channel and category-level analysis helps identify key areas driving overall business performance.
+## 📊 Project Overview
+An interactive Power BI dashboard designed to analyze retail sales performance across different product categories, sales channels, and Indian states.
+The dashboard provides actionable insights into revenue, sales trends, customer purchasing behavior, and regional performance.
 
 ## Business Objectives
-* Analyze overall retail sales performance.
-* Identify high-performing product categories and markets.
-* Compare sales across different channels.
-* Understand customer payment preferences.
-* Generate actionable insights to support business decisions.
+- Analyze overall sales and revenue performance
+- Identify top-performing product categories
+- Compare sales across different channels
+- Evaluate state-wise sales performance
+- Understand customer payment preferences
+- Identify opportunities for business growth
+
+## Key Insights
+- **Electronics** is the highest-revenue product category.
+- **COD (Cash on Delivery)** is the dominant payment method, indicating an opportunity to strengthen digital payment adoption.
+- **Maharashtra, Uttar Pradesh, and Delhi** are among the top-performing states.
+- Sales performance varies significantly across different channels and regions.
+- Regional and payment-method analysis can help businesses improve customer experience and sales strategy.
+
 ## Tools & Skills
-* Power BI
-* Data Visualization
-* Business Analytics
-* KPI Analysis
-* Market & Sales Analysis
+- Power BI
+- Data Cleaning & Transformation
+- Power Query
+- DAX
+- Data Visualization
+- Business Analysis
+- KPI & Dashboard Development
+- Sales & Market Analysis
 
-## Files
-* `Orders_Modified.csv` – Order-level transaction data
-* `Details_Modified.csv` – Product and sales details
-* `Dashboard Screenshots/` – Dashboard preview images
+## Dashboard Features
+- Sales & Revenue KPIs
+- Category-wise Performance
+- Channel-wise Sales Analysis
+- State-wise Sales Analysis
+- Payment Method Analysis
+- Interactive Filters & Slicers
+- Business Performance Insights
 
-## Dashboard Preview
-Dashboard screenshots are available in the **Dashboard Screenshots** folder.
+## 💡 Business Value
+The dashboard helps decision-makers identify high-performing markets, understand customer purchasing behavior, and make data-driven decisions related to sales, channels, and regional strategy.
 
-## Key Takeaway
+## 📁 Project Files
+- `Retail Competitive_Marketing_Analysis_Parul...` – Power BI Dashboard
+- `Orders_Modified.csv` – Orders dataset
+- `Details_Modified.csv` – Transaction details dataset
+- Dashboard screenshots – Visual reference
+- [Dashboard](I3.jpeg)
+![Dashboard](I4.jpeg)
 
-The analysis highlights the strongest-performing categories and markets while identifying opportunities to improve digital payment adoption and optimize channel performance.
+## 👩‍💻 Author
+**Parul Bhatia**
+MBA – Marketing & Business Analytics  
+Business Analyst | Power BI | Excel | Data Analysis
